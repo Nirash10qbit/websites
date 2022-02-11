@@ -10,6 +10,10 @@ export default [
         route: 'dashboard-ecommerce',
       },
       {
+        title: 'menu',
+        route: 'dashboard-main',
+      },
+      {
         title: 'Analytics',
         route: 'dashboard-analytics',
       },

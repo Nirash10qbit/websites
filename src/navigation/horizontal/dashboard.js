@@ -9,6 +9,11 @@ export default [
         icon: 'ShoppingCartIcon',
       },
       {
+        title: 'menu',
+        route: 'dashboard-main',
+        icon: 'ShoppingCartIcon',
+      },
+      {
         title: 'Analytics',
         route: 'dashboard-analytics',
         icon: 'ActivityIcon',

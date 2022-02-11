@@ -1,6 +1,6 @@
 <template>
   <div
-    class="customizer d-none d-md-block"
+    class="d-none"
     :class="{'open': isCustomizerOpen}"
   >
     <!-- Toggler -->
@@ -10,7 +10,7 @@
     >
       <feather-icon
         icon="SettingsIcon"
-        size="15"
+        size="0"
         class="spinner"
       />
     </b-link>
